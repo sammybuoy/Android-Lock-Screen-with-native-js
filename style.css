@@ -1,0 +1,36 @@
+body{
+	background: rgba(240,240,232,1);
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.mainContainer{
+	width:320px;
+	height: 568px;
+	background: #efefef;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+}
+
+ul,li{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+}
+
+li{
+	width: 75px;
+	height: 75px;
+	background: #999;
+	display: inline-block;
+	margin: 40px 14px 0px 14px;
+}
+
+.heading{
+	text-align: center;
+	font-size: 24px;
+	color: #888;
+	margin: 30px 0px 0px 0px;
+}
